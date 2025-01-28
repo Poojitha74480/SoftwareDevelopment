@@ -4,7 +4,7 @@
 <h1>Smart Gardening</h1>
 </head>
 <body>
-<h1>Team members</h1>
+<h3>Team members</h3>
   <p>Poojitha</p>
   <p>Abhigna</p>
   <p>Akshitha</p>
